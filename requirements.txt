@@ -1,5 +1,6 @@
-joblib==1.2.0
-pandas==2.3.2
-scikit-learn==1.2.2
 streamlit==1.49.1
+pandas==2.3.2
+numpy==1.26.4
 pymysql==1.1.1
+joblib==1.2.0
+scikit-learn==1.2.2
